@@ -1,0 +1,6 @@
+C:\Users\ADAM\source\repos\RevitTest\RevitTest\bin\Debug\RevitTest.dll
+C:\Users\ADAM\source\repos\RevitTest\RevitTest\bin\Debug\RevitTest.pdb
+C:\Users\ADAM\source\repos\RevitTest\RevitTest\obj\Debug\TASK1.csproj.AssemblyReference.cache
+C:\Users\ADAM\source\repos\RevitTest\RevitTest\obj\Debug\TASK1.csproj.CoreCompileInputs.cache
+C:\Users\ADAM\source\repos\RevitTest\RevitTest\obj\Debug\RevitTest.dll
+C:\Users\ADAM\source\repos\RevitTest\RevitTest\obj\Debug\RevitTest.pdb
